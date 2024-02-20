@@ -1649,6 +1649,9 @@ margin-left:60px;
     background-size:cover;
     position:relative;
   }
+  .aralse { 
+    margin-left: 0px !important;
+  }
   
   
 }
@@ -1661,6 +1664,9 @@ margin-left:60px;
     background-size:cover;
     position:relative;
   }
+  .aralse { 
+    margin-left: 0px !important;
+  }
 }
 @media (max-width: 768px) {
 
@@ -1668,6 +1674,9 @@ margin-left:60px;
   display:block;
   margin-left:55px; 
   text-align: center;
+}
+.aralse { 
+  margin-left: 0px !important;
 }
 
 
